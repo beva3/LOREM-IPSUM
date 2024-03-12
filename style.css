@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(206, 145, 105);
+    font-size: 50px;
+    text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.6);
+}
+.test{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(206, 145, 105);
+    font-size: 20px;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.6);
+
+}
+
+.a,.b,.c{
+    width: 200px;
+    height: 550px;
+    overflow: auto;
+    border-radius: 10px;
+    float: left;
+
+    margin: 30px;
+    padding: 20px;
+    box-shadow: 10px 8px 10px  rgba(0, 0, 0, 0.6);
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+
+}
+.a{
+    background-color: aqua;
+}
+.b{
+    background-color: brown;
+}
+.c{
+    background-color: blue;
+}
